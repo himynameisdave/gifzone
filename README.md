@@ -1,6 +1,6 @@
 <div align="center" margin="0 auto 20px">
     <h1>gifzone</h1>
-    <p style="font-style: italic;">🐘 Convert and compress your fav gifs from mp4 to gif.</p>
+    <p style="font-style: italic;">🐘 Convert and compress your fave gifs from mp4 to gif.</p>
 </div>
 
 ---
