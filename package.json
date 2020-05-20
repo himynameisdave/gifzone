@@ -1,0 +1,36 @@
+{
+  "name": "gifzone",
+  "version": "1.0.0",
+  "description": "Convert and compress your fav gifs from mp4 to gif",
+  "main": "lib/index.js",
+  "type": "module",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node lib/index.js",
+    "initialize": "mkdir -p input/ output/"
+  },
+  "dependencies": {,
+    "execa": "^4.0.1",
+    "imagemin": "^7.0.1",
+    "imagemin-giflossy": "^5.1.10"
+  },
+  "keywords": [
+    "gif",
+    "mp4",
+    "convert",
+    "mp4-to-gif",
+    "utility",
+    "image-convert"
+  ],
+  "engines": {
+    "node": ">= 14"
+  },
+  "author": {
+    "name": "himynameisdave",
+    "email": "d@velunny.com",
+    "url": "https://himynameisdave.com"
+  },
+  "license": "MIT"
+}
